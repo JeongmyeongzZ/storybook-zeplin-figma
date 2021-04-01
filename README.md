@@ -14,9 +14,17 @@ connect component to zeplin on figma
 paste project code on .zeplin/components.json and add component
 
 4.
-`npx zeplin connect -p zeplin-cli-connect-plugin-vue` or `zeplin connect`
+run `npx zeplin connect -p zeplin-cli-connect-plugin-vue` or `zeplin connect`
+
+5.
+if you want connect storybook too
+
+run `npm install @zeplin/cli-connect-storybook-plugin`
 
 
+## now you can see connect links on zeplin !
+
+[zeplin](/src/assets/zeplin.png)
 
 
 connect cli eg.

@@ -1,4 +1,16 @@
 {
+  "plugins": [
+    {
+      "name": "zeplin-cli-connect-plugin-vue"
+    },
+    {
+      "name": "@zeplin/cli-connect-storybook-plugin",
+      "config": {
+        "url": "http://localhost:6006",
+        "startScript": "storybook"
+      }
+    }
+  ],
   "projects": [
     "6065787d3ac6ef3f9a075e6f"
   ],
@@ -8,7 +20,13 @@
       "path": "src/stories/Button.vue",
       "zeplinNames": [
         "test-btn"
-      ]
+      ],
+      "storybook": {
+        "kind": "Design System/test-btn",
+        "stories": [
+          "primary"
+        ]
+      }
     }
   ]
 }

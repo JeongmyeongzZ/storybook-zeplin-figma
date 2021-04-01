@@ -9,6 +9,7 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "@zeplin/cli-connect-storybook-plugin": "^0.5.1",
     "vue": "^3.0.5",
     "zeplin-cli-connect-plugin-vue": "^1.1.0"
   },
