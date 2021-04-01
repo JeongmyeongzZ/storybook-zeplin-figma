@@ -13,6 +13,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/JeongmyeongzZ/storybook-zeplin-figma" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1qYdSU37YcUU2aJpelEqyn88Tg4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617260456364</updated>
-      <workItem from="1617260459487" duration="4458000" />
+      <workItem from="1617260459487" duration="4555000" />
     </task>
     <servers />
   </component>
