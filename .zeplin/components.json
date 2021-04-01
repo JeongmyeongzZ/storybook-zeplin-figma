@@ -1,0 +1,14 @@
+{
+  "projects": [
+    "6065787d3ac6ef3f9a075e6f"
+  ],
+  "styleguides": [],
+  "components": [
+    {
+      "path": "src/stories/Button.vue",
+      "zeplinNames": [
+        "test-btn"
+      ]
+    }
+  ]
+}
