@@ -18,6 +18,9 @@ storybook, zeplin, figma component connect with vue3
 run `npm install @zeplin/cli-connect-storybook-plugin`
 
 
+run `npm run dev` `npm run storybook`
+
+
 ## now you can see connect links on zeplin !
 
 ![zeplin](/src/assets/zeplin.png)
